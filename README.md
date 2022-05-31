@@ -1,5 +1,6 @@
 # KeniBotz-MDV2
 Bot WhatsApp KeniBotz V2 Sudah Mendukung Multi Device Whatsapp Versi Terbaru
+Setting Di seina.js
 
 # Cara Run SC
   ~ Termux
